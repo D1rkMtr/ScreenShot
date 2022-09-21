@@ -3,3 +3,8 @@ a C2 feature , ScreenShot capture , the file output is a png on the current dire
 
 
 ![Screenshot](https://user-images.githubusercontent.com/110354855/191578826-de6b3285-b1a5-441e-ab8b-b8ad8183e2d5.png)
+
+
+
+
+https://user-images.githubusercontent.com/110354855/191623993-e5b86cbb-6c88-4735-9c51-03cfd2670be4.mp4
